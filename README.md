@@ -14,9 +14,11 @@
       - [Application Quality: 15%](#application-quality-15)
       - [Repository Quality: 13%](#repository-quality-13)
     - [Additional tasks](#additional-tasks)
+      - [Font](#font)
       - [Footer](#footer)
       - [Project structure](#project-structure)
       - [VS code extensions](#vs-code-extensions)
+      - [Image optimization](#image-optimization)
       - [Extra mile](#extra-mile)
   - [Installation](#installation)
   - [Credits](#credits)
@@ -63,6 +65,11 @@
 
 ### Additional tasks
 
+#### Font
+
+- Add font to the repository in case that browser can't load it
+- add additional font that load on all browsers in case that main font don't run
+
 #### Footer
 
 Refactor footer for better view under 768px width.
@@ -76,6 +83,11 @@ Refactor structure of the project, base on the best practice for web development
 * Add Grammarly for auto correct.
 * Add Live server for hot reload.
 * Add Prettier for auto format code.
+* Add Markdown All in One extension.
+
+#### Image optimization
+
+Optimizes image for different size browsers (decrease project size, optimize speed loading).
 
 #### Extra mile
 
