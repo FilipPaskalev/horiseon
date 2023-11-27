@@ -1,3 +1,5 @@
+/* Main page styles*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -16,6 +18,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* Header navigation */
 
 header {
     padding: 20px;
@@ -64,6 +68,8 @@ section {
     margin-left: 20px;
 }
 
+/* Main body section */
+
 section article {
     margin-bottom: 20px;
     padding: 50px;
@@ -92,6 +98,8 @@ section article h2 {
     margin-left: 25px;
 }
 
+/* Aside section (right side) */
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -118,6 +126,8 @@ aside article img {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer */
 
 footer {
     padding: 30px;
