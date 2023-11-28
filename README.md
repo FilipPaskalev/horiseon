@@ -84,8 +84,6 @@ You can find deployed version of the project on [Website](https://filippaskalev.
 
 ### Preview
 
-<video> C:\Users\GF65\Downloads\bootcamp\horiseon\assets\video\Horiseon - alt attribute descriptions.webm </video>
-
 ## Features
 
 ### Footer
