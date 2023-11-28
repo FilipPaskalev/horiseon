@@ -1,34 +1,28 @@
 # Horiseon Project
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Horiseon Project](#horiseon-project)
-  - [Table of Contents (Optional)](#table-of-contents-optional)
+  - [Table of Contents](#table-of-contents)
   - [Description](#description)
     - [User story](#user-story)
     - [Usage](#usage)
   - [Project tasks](#project-tasks)
     - [Requirements](#requirements)
-      - [Technical Acceptance Criteria: 40%](#technical-acceptance-criteria-40)
-      - [Deployment: 32%](#deployment-32)
-      - [Application Quality: 15%](#application-quality-15)
-      - [Repository Quality: 13%](#repository-quality-13)
-    - [Additional tasks](#additional-tasks)
-      - [Font](#font)
-      - [Footer](#footer)
-      - [Project structure](#project-structure)
-      - [VS code extensions](#vs-code-extensions)
-      - [Image optimization](#image-optimization)
-      - [Extra mile](#extra-mile)
+      - [Technical Acceptance Criteria:](#technical-acceptance-criteria)
+      - [Deployment:](#deployment)
+      - [Application Quality:](#application-quality)
+      - [Repository Quality:](#repository-quality)
   - [Installation](#installation)
-  - [Credits](#credits)
-  - [Badges](#badges)
   - [Features](#features)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
+    - [Footer](#footer)
+    - [Font](#font)
+    - [Image optimization](#image-optimization)
   - [License](#license)
 
 ## Description
+
+The project was task by the University of Birmingham Front-End Boot Camp 2023.
 
 ### User story
 
@@ -38,70 +32,58 @@
 
 ### Requirements
 
-#### Technical Acceptance Criteria: 40%
+#### Technical Acceptance Criteria:
 
-* Application's links all function correctly.
-* Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-* Application's CSS file is properly commented.
+- Application's links all function correctly.
+- Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+- Application's CSS file is properly commented.
 
-#### Deployment: 32%
+#### Deployment:
 
-* Application deployed at live URL.
-* Application loads with no errors.
-* Application GitHub URL submitted.
-* GitHub repository that contains application code.
+- Application deployed at live URL.
+- Application loads with no errors.
+- Application GitHub URL submitted.
+- GitHub repository that contains application code.
 
-#### Application Quality: 15%
+#### Application Quality:
 
-* Application resembles (at least 90%) screenshots provided in the challenge instructions.
+- Application resembles (at least 90%) screenshots provided in the challenge instructions.
 
-#### Repository Quality: 13%
+#### Repository Quality:
 
-* Repository has a unique name.
-* Repository follows best practices for file structure and naming conventions.
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-* Repository contains multiple descriptive commit messages.
-* Repository contains quality README file with description, screenshot, and link to deployed application.
+- Repository has a unique name.
+- Repository follows best practices for file structure and naming conventions.
+- Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+- Repository contains multiple descriptive commit messages.
+- Repository contains quality README file with description, screenshot, and link to deployed application.
 
-### Additional tasks
-
-#### Font
-
-- Add font to the repository in case that browser can't load it
-- add additional font that load on all browsers in case that main font don't run
-
-#### Footer
-
-Refactor footer for better view under 768px width.
-
-#### Project structure
-
-Refactor structure of the project, base on the best practice for web development project. Explain where you get the research from and why they have been chosen.
-
-#### VS code extensions
-
-* Add Grammarly for auto correct.
-* Add Live server for hot reload.
-* Add Prettier for auto format code.
-* Add Markdown All in One extension.
-
-#### Image optimization
-
-Optimizes image for different size browsers (decrease project size, optimize speed loading).
-
-#### Extra mile
+<!-- #### Extra mile -->
 
 ## Installation
 
-## Credits
+You can find deployed version of the project on https://filippaskalev.github.io/horiseon/
+<!-- ## Credits -->
 
-## Badges
+<!-- ## Badges -->
 
 ## Features
 
-## Contributing
+### Footer
 
-## Tests
+Refactoring footer for better view under 768px width.
+
+### Font
+
+- Add font to the repository in case that browser can't load it
+- Add default font that load on all browsers in case that main font don't run
+
+### Image optimization
+
+Optimizes image for different size browsers (decrease project size, optimize speed loading).
+
+<!-- ## Contributing -->
+
+<!-- ## Tests -->
 
 ## License
 
