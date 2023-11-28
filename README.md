@@ -81,6 +81,8 @@ The following image shows the web application's appearance and functionality:
 
 You can find deployed version of the project on [Website](https://filippaskalev.github.io/horiseon/)
 
+### Preview
+
 ## Features
 
 ### Footer
