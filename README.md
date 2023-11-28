@@ -5,14 +5,11 @@
 - [Horiseon Project](#horiseon-project)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
-    - [User story](#user-story)
-    - [Usage](#usage)
   - [Project tasks](#project-tasks)
-    - [Requirements](#requirements)
-      - [Technical Acceptance Criteria:](#technical-acceptance-criteria)
-      - [Deployment:](#deployment)
-      - [Application Quality:](#application-quality)
-      - [Repository Quality:](#repository-quality)
+    - [Technical Acceptance Criteria:](#technical-acceptance-criteria)
+    - [Deployment:](#deployment)
+    - [Application Quality:](#application-quality)
+    - [Repository Quality:](#repository-quality)
   - [Installation](#installation)
   - [Features](#features)
     - [Footer](#footer)
@@ -22,34 +19,32 @@
 
 ## Description
 
-The project was task by the University of Birmingham Front-End Boot Camp 2023.
+The project was task by the University of Birmingham Front-End BootCamp 2023.
 
-### User story
+<!-- ### User story -->
 
-### Usage
+<!-- ### Usage -->
 
 ## Project tasks
 
-### Requirements
-
-#### Technical Acceptance Criteria:
+### Technical Acceptance Criteria:
 
 - Application's links all function correctly.
 - Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 - Application's CSS file is properly commented.
 
-#### Deployment:
+### Deployment:
 
 - Application deployed at live URL.
 - Application loads with no errors.
 - Application GitHub URL submitted.
 - GitHub repository that contains application code.
 
-#### Application Quality:
+### Application Quality:
 
 - Application resembles (at least 90%) screenshots provided in the challenge instructions.
 
-#### Repository Quality:
+### Repository Quality:
 
 - Repository has a unique name.
 - Repository follows best practices for file structure and naming conventions.
