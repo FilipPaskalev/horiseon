@@ -15,6 +15,7 @@
   - [Installation](#installation)
     - [Option 1](#option-1)
     - [Option 2](#option-2)
+    - [Preview](#preview)
   - [Features](#features)
     - [Footer](#footer)
     - [Font](#font)
@@ -82,6 +83,8 @@ The following image shows the web application's appearance and functionality:
 You can find deployed version of the project on [Website](https://filippaskalev.github.io/horiseon/)
 
 ### Preview
+
+<video> C:\Users\GF65\Downloads\bootcamp\horiseon\assets\video\Horiseon - alt attribute descriptions.webm </video>
 
 ## Features
 
